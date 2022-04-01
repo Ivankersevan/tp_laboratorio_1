@@ -12,6 +12,6 @@
 #include <stdlib.h>
 
 int main(void) {
-	printf("Hola Ivan, esto funciona de maravilla y espectacular");
+	printf("Hola Ivan, esto funciona de maravilla y super bien");
 	return 0;
 }
